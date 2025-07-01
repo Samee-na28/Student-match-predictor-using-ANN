@@ -75,7 +75,7 @@ This project involves the development of an Artificial Neural Network (ANN) to p
 - 🔮 Predicts match outcome with a confidence score
 - 🧠 Supports real-time model training
 
-**💻 Hugging Face Demo:** https://huggingface.co/spaces/rohithhh16/Student-Match-Predictor
+**💻 Hugging Face Demo:** https://huggingface.co/spaces/dudekulasameenabanu/Student-Match-Predictor
 
 ```
 streamlit run app.py
